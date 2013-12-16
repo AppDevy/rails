@@ -4,3 +4,6 @@ rvm:
   - "1.9.2"
 install: "touch ~/do_not_run_bundle"
 script: "./script/ci"
+branches:
+  only:
+    - 2-3-square
