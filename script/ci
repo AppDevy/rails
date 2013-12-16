@@ -1,4 +1,5 @@
 #!/bin/bash
+# Borrowed from github/rails: https://github.com/github/rails/blob/2-3-github/script/cibuild-on
 
 set -x
 set -e
